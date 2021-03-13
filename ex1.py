@@ -9,3 +9,4 @@ def my_func(var_1, var_2):
         return "Деление на 0!"
 
 
+print(my_func(int(input("Введите делимое: ")), int(input("Введите делитель: "))))
