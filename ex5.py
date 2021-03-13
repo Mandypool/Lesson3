@@ -12,3 +12,4 @@ try:
             num += i
         print(num)
 except ValueError:
+    print(num)

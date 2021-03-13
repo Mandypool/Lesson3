@@ -13,3 +13,4 @@ def int_func(a):
     return my_words
 
 
+print(int_func("abra kadabra abra kadabra"))

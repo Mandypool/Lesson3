@@ -30,3 +30,4 @@ def my_func_2(a, b):
     return c1, 1 / c2
 
 
+print(my_func_2(8, -3))

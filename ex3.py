@@ -10,3 +10,4 @@ def my_func(argument_1, argument_2, argument_3):
         return argument_2 + argument_3
 
 
+print(f'Сумма введенных наибольших чисел = {my_func(int(input("Введите число 1: ")), int(input("Введите число 2: ")), int(input("Введите число 3: ")))}')
